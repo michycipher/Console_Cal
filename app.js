@@ -1,4 +1,4 @@
-let operator = prompt('Input Operator: ');
+let operator = prompt('Input Operator: +, -, *, /, %');
 let num1 = parseInt(prompt('First Number: '));
 let num2 = parseInt(prompt('Second Number: '));
 
